@@ -1,7 +1,7 @@
 import 'package:test/test.dart';
-import 'package:HOSPITAL_MANAGING_ROOMS_BEDS/domain/models/bed.dart';
-import 'package:HOSPITAL_MANAGING_ROOMS_BEDS/domain/models/enum.dart';
-import 'package:HOSPITAL_MANAGING_ROOMS_BEDS/domain/models/patient.dart';
+import '../lib/domain/models/bed.dart';
+import '../lib/domain/models/enum.dart';
+import '../lib/domain/models/patient.dart';
 
 void main() {
   group('Bed', () {
